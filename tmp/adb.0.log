@@ -1,0 +1,215 @@
+--- adb starting (pid 8249) ---
+adb I 08-18 21:49:05  8249  8249 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-18 21:49:05  8249  8249 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-18 21:49:05  8249  8249 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-18 21:49:05  8249  8249 main.cpp:63] 
+adb I 08-18 21:49:05  8249  8249 auth.cpp:417] adb_auth_init...
+adb I 08-18 21:49:05  8249  8249 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone/.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-18 21:49:05  8249  8249 auth.cpp:392] adb_auth_inotify_init...
+--- adb starting (pid 14219) ---
+adb I 08-18 21:59:32 14219 14219 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-18 21:59:32 14219 14219 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-18 21:59:32 14219 14219 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-18 21:59:32 14219 14219 main.cpp:63] 
+adb I 08-18 21:59:32 14219 14219 auth.cpp:417] adb_auth_init...
+adb I 08-18 21:59:32 14219 14219 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-18 21:59:32 14219 14219 auth.cpp:392] adb_auth_inotify_init...
+adb I 08-18 21:59:32 14219 14225 transport.cpp:305] emulator-5554: write thread spawning
+adb I 08-18 21:59:32 14219 14224 transport.cpp:333] emulator-5554: read thread spawning
+adb I 08-18 21:59:32 14219 14227 transport.cpp:333] localhost:5555: read thread spawning
+adb I 08-18 21:59:32 14219 14228 transport.cpp:305] localhost:5555: write thread spawning
+adb I 08-18 21:59:32 14219 14219 transport.cpp:1596] fetching keys for transport localhost:5555
+adb I 08-18 21:59:32 14219 14219 auth.cpp:469] Calling send_auth_response
+adb I 08-18 21:59:32 14219 14219 transport.cpp:1596] fetching keys for transport emulator-5554
+adb I 08-18 21:59:32 14219 14219 auth.cpp:469] Calling send_auth_response
+adb I 08-18 21:59:32 14219 14219 adb.cpp:172] localhost:5555: offline
+adb I 08-18 21:59:32 14219 14219 adb.cpp:172] emulator-5554: offline
+adb I 08-18 21:59:32 14219 14224 transport.cpp:337] emulator-5554: read failed: Success
+adb I 08-18 21:59:32 14219 14224 transport.cpp:1198] emulator-5554: connection terminated: read failed
+adb I 08-18 21:59:32 14219 14227 transport.cpp:337] localhost:5555: read failed: Success
+adb I 08-18 21:59:32 14219 14227 transport.cpp:1198] localhost:5555: connection terminated: read failed
+adb I 08-18 21:59:32 14219 14219 adb.cpp:172] emulator-5554: offline
+adb I 08-18 21:59:32 14219 14219 transport.cpp:911] destroying transport emulator-5554
+adb I 08-18 21:59:32 14219 14219 transport.cpp:405] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 08-18 21:59:32 14219 14219 transport.cpp:423] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 08-18 21:59:32 14219 14219 adb.cpp:172] localhost:5555: offline
+adb I 08-18 21:59:32 14219 14219 transport.cpp:911] destroying transport localhost:5555
+adb I 08-18 21:59:32 14219 14219 transport.cpp:405] BlockingConnectionAdapter(localhost:5555): stopping
+adb I 08-18 21:59:32 14219 14219 transport.cpp:423] BlockingConnectionAdapter(localhost:5555): stopped
+adb I 08-18 21:59:32 14219 14219 transport.cpp:292] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 08-18 21:59:32 14219 14219 transport.cpp:398] BlockingConnectionAdapter(emulator-5554): already stopped
+adb I 08-18 22:00:32 14219 14219 transport.cpp:292] BlockingConnectionAdapter(localhost:5555): destructing
+adb I 08-18 22:00:32 14219 14219 transport.cpp:398] BlockingConnectionAdapter(localhost:5555): already stopped
+--- adb starting (pid 13061) ---
+adb I 08-18 22:05:23 13061 13061 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-18 22:05:23 13061 13061 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-18 22:05:23 13061 13061 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-18 22:05:23 13061 13061 main.cpp:63] 
+adb I 08-18 22:05:23 13061 13061 auth.cpp:417] adb_auth_init...
+adb I 08-18 22:05:23 13061 13061 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-18 22:05:23 13061 13061 auth.cpp:392] adb_auth_inotify_init...
+adb I 08-18 22:05:23 13061 13070 transport.cpp:305] emulator-5554: write thread spawning
+adb I 08-18 22:05:23 13061 13069 transport.cpp:333] emulator-5554: read thread spawning
+adb I 08-18 22:05:23 13061 13061 transport.cpp:1596] fetching keys for transport emulator-5554
+adb I 08-18 22:05:23 13061 13061 auth.cpp:469] Calling send_auth_response
+adb I 08-18 22:05:23 13061 13082 transport.cpp:333] localhost:5555: read thread spawning
+adb I 08-18 22:05:23 13061 13083 transport.cpp:305] localhost:5555: write thread spawning
+adb I 08-18 22:05:23 13061 13061 adb.cpp:172] emulator-5554: offline
+adb I 08-18 22:05:23 13061 13061 transport.cpp:1596] fetching keys for transport localhost:5555
+adb I 08-18 22:05:23 13061 13061 auth.cpp:469] Calling send_auth_response
+adb I 08-18 22:05:23 13061 13061 adb.cpp:172] localhost:5555: offline
+adb I 08-18 22:05:24 13061 13082 transport.cpp:337] localhost:5555: read failed: Success
+adb I 08-18 22:05:24 13061 13082 transport.cpp:1198] localhost:5555: connection terminated: read failed
+adb I 08-18 22:05:24 13061 13069 transport.cpp:337] emulator-5554: read failed: Success
+adb I 08-18 22:05:24 13061 13069 transport.cpp:1198] emulator-5554: connection terminated: read failed
+adb I 08-18 22:05:24 13061 13061 adb.cpp:172] localhost:5555: offline
+adb I 08-18 22:05:24 13061 13061 transport.cpp:911] destroying transport localhost:5555
+adb I 08-18 22:05:24 13061 13061 transport.cpp:405] BlockingConnectionAdapter(localhost:5555): stopping
+adb I 08-18 22:05:24 13061 13061 transport.cpp:423] BlockingConnectionAdapter(localhost:5555): stopped
+adb I 08-18 22:05:24 13061 13061 adb.cpp:172] emulator-5554: offline
+adb I 08-18 22:05:24 13061 13061 transport.cpp:911] destroying transport emulator-5554
+adb I 08-18 22:05:24 13061 13061 transport.cpp:405] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 08-18 22:05:24 13061 13061 transport.cpp:423] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 08-18 22:05:24 13061 13061 transport.cpp:292] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 08-18 22:05:24 13061 13061 transport.cpp:398] BlockingConnectionAdapter(emulator-5554): already stopped
+--- adb starting (pid 12165) ---
+adb I 08-19 14:28:36 12165 12165 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 14:28:36 12165 12165 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 14:28:36 12165 12165 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 14:28:36 12165 12165 main.cpp:63] 
+adb I 08-19 14:28:36 12165 12165 auth.cpp:417] adb_auth_init...
+adb I 08-19 14:28:36 12165 12165 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-19 14:28:36 12165 12165 auth.cpp:392] adb_auth_inotify_init...
+adb I 08-19 14:28:36 12165 12173 transport.cpp:305] emulator-5554: write thread spawning
+adb I 08-19 14:28:36 12165 12172 transport.cpp:333] emulator-5554: read thread spawning
+adb I 08-19 14:28:36 12165 12165 transport.cpp:1596] fetching keys for transport emulator-5554
+adb I 08-19 14:28:36 12165 12165 auth.cpp:469] Calling send_auth_response
+adb I 08-19 14:28:36 12165 12165 adb.cpp:172] emulator-5554: offline
+adb I 08-19 14:28:36 12165 12181 transport.cpp:305] localhost:5555: write thread spawning
+adb I 08-19 14:28:36 12165 12180 transport.cpp:333] localhost:5555: read thread spawning
+adb I 08-19 14:28:36 12165 12165 transport.cpp:1596] fetching keys for transport localhost:5555
+adb I 08-19 14:28:36 12165 12165 auth.cpp:469] Calling send_auth_response
+adb I 08-19 14:28:36 12165 12165 adb.cpp:172] localhost:5555: offline
+adb I 08-19 14:28:37 12165 12180 transport.cpp:337] localhost:5555: read failed: Success
+adb I 08-19 14:28:37 12165 12180 transport.cpp:1198] localhost:5555: connection terminated: read failed
+adb I 08-19 14:28:37 12165 12172 transport.cpp:337] emulator-5554: read failed: Success
+adb I 08-19 14:28:37 12165 12172 transport.cpp:1198] emulator-5554: connection terminated: read failed
+adb I 08-19 14:28:37 12165 12165 adb.cpp:172] localhost:5555: offline
+adb I 08-19 14:28:37 12165 12165 transport.cpp:911] destroying transport localhost:5555
+adb I 08-19 14:28:37 12165 12165 transport.cpp:405] BlockingConnectionAdapter(localhost:5555): stopping
+adb I 08-19 14:28:37 12165 12165 transport.cpp:423] BlockingConnectionAdapter(localhost:5555): stopped
+adb I 08-19 14:28:37 12165 12165 adb.cpp:172] emulator-5554: offline
+adb I 08-19 14:28:37 12165 12165 transport.cpp:911] destroying transport emulator-5554
+adb I 08-19 14:28:37 12165 12165 transport.cpp:405] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 08-19 14:28:37 12165 12165 transport.cpp:423] BlockingConnectionAdapter(emulator-5554): stopped
+adb I 08-19 14:28:37 12165 12165 transport.cpp:292] BlockingConnectionAdapter(emulator-5554): destructing
+adb I 08-19 14:28:37 12165 12165 transport.cpp:398] BlockingConnectionAdapter(emulator-5554): already stopped
+adb I 08-19 14:29:37 12165 12165 transport.cpp:292] BlockingConnectionAdapter(localhost:5555): destructing
+adb I 08-19 14:29:37 12165 12165 transport.cpp:398] BlockingConnectionAdapter(localhost:5555): already stopped
+--- adb starting (pid 20656) ---
+adb I 08-19 14:55:46 20656 20656 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 14:55:46 20656 20656 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 14:55:46 20656 20656 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 14:55:46 20656 20656 main.cpp:63] 
+adb I 08-19 14:55:46 20656 20656 auth.cpp:417] adb_auth_init...
+adb I 08-19 14:55:46 20656 20656 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-19 14:55:46 20656 20656 auth.cpp:392] adb_auth_inotify_init...
+--- adb starting (pid 23854) ---
+adb I 08-19 14:59:35 23854 23854 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 14:59:35 23854 23854 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 14:59:35 23854 23854 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 14:59:35 23854 23854 main.cpp:63] 
+adb I 08-19 14:59:35 23854 23854 auth.cpp:417] adb_auth_init...
+--- adb starting (pid 23855) ---
+adb I 08-19 14:59:35 23855 23855 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 14:59:35 23855 23855 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 14:59:35 23855 23855 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 14:59:35 23855 23855 main.cpp:63] 
+adb I 08-19 14:59:35 23854 23854 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-19 14:59:35 23854 23854 auth.cpp:392] adb_auth_inotify_init...
+adb F 08-19 14:59:35 23855 23855 main.cpp:155] could not install *smartsocket* listener: Address already in use
+--- adb starting (pid 25305) ---
+adb I 08-19 15:02:01 25305 25305 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 15:02:01 25305 25305 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 15:02:01 25305 25305 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 15:02:01 25305 25305 main.cpp:63] 
+adb I 08-19 15:02:01 25305 25305 auth.cpp:417] adb_auth_init...
+adb I 08-19 15:02:01 25305 25305 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-19 15:02:01 25305 25305 auth.cpp:392] adb_auth_inotify_init...
+--- adb starting (pid 25307) ---
+adb I 08-19 15:02:01 25307 25307 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 15:02:01 25307 25307 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 15:02:01 25307 25307 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 15:02:01 25307 25307 main.cpp:63] 
+adb F 08-19 15:02:01 25307 25307 main.cpp:155] could not install *smartsocket* listener: Address already in use
+adb server killed by remote request
+--- adb starting (pid 26464) ---
+adb I 08-19 15:04:11 26464 26464 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 15:04:11 26464 26464 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 15:04:11 26464 26464 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 15:04:11 26464 26464 main.cpp:63] 
+adb I 08-19 15:04:11 26464 26464 auth.cpp:417] adb_auth_init...
+adb I 08-19 15:04:11 26464 26464 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-19 15:04:11 26464 26464 auth.cpp:392] adb_auth_inotify_init...
+adb I 08-19 15:04:11 26464 26483 transport.cpp:305] emulator-5554: write thread spawning
+adb I 08-19 15:04:11 26464 26482 transport.cpp:333] emulator-5554: read thread spawning
+adb I 08-19 15:04:11 26464 26464 transport.cpp:1596] fetching keys for transport emulator-5554
+adb I 08-19 15:04:11 26464 26464 auth.cpp:469] Calling send_auth_response
+adb I 08-19 15:04:11 26464 26464 adb.cpp:172] emulator-5554: offline
+adb I 08-19 15:04:11 26464 26490 transport.cpp:333] localhost:5555: read thread spawning
+adb I 08-19 15:04:11 26464 26491 transport.cpp:305] localhost:5555: write thread spawning
+adb I 08-19 15:04:11 26464 26464 transport.cpp:1596] fetching keys for transport localhost:5555
+adb I 08-19 15:04:11 26464 26464 auth.cpp:469] Calling send_auth_response
+adb I 08-19 15:04:11 26464 26464 adb.cpp:172] localhost:5555: offline
+adb I 08-19 15:04:12 26464 26490 transport.cpp:337] localhost:5555: read failed: Success
+adb I 08-19 15:04:12 26464 26490 transport.cpp:1198] localhost:5555: connection terminated: read failed
+adb I 08-19 15:04:12 26464 26464 adb.cpp:172] localhost:5555: offline
+adb I 08-19 15:04:12 26464 26482 transport.cpp:337] emulator-5554: read failed: Success
+adb I 08-19 15:04:12 26464 26482 transport.cpp:1198] emulator-5554: connection terminated: read failed
+adb I 08-19 15:04:12 26464 26464 transport.cpp:911] destroying transport localhost:5555
+adb I 08-19 15:04:12 26464 26464 transport.cpp:405] BlockingConnectionAdapter(localhost:5555): stopping
+adb I 08-19 15:04:12 26464 26464 transport.cpp:423] BlockingConnectionAdapter(localhost:5555): stopped
+adb I 08-19 15:04:12 26464 26464 adb.cpp:172] emulator-5554: offline
+adb I 08-19 15:04:12 26464 26464 transport.cpp:911] destroying transport emulator-5554
+adb I 08-19 15:04:12 26464 26464 transport.cpp:405] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 08-19 15:04:12 26464 26464 transport.cpp:423] BlockingConnectionAdapter(emulator-5554): stopped
+adb server killed by remote request
+adb I 08-19 15:04:12 26464 26464 transport.cpp:1107] kicking transport 0xb400007dcc095000 localhost:5555
+adb I 08-19 15:04:12 26464 26464 transport.cpp:398] BlockingConnectionAdapter(localhost:5555): already stopped
+adb I 08-19 15:04:12 26464 26464 transport.cpp:1107] kicking transport 0xb400007d48401000 emulator-5554
+adb I 08-19 15:04:12 26464 26464 transport.cpp:398] BlockingConnectionAdapter(emulator-5554): already stopped
+--- adb starting (pid 12588) ---
+adb I 08-19 21:28:14 12588 12588 main.cpp:63] Android Debug Bridge version 1.0.41
+adb I 08-19 21:28:14 12588 12588 main.cpp:63] Version 31.0.3p1-android-tools
+adb I 08-19 21:28:14 12588 12588 main.cpp:63] Installed as /data/data/com.termux/files/usr/bin/adb
+adb I 08-19 21:28:14 12588 12588 main.cpp:63] 
+adb I 08-19 21:28:14 12588 12588 auth.cpp:417] adb_auth_init...
+adb I 08-19 21:28:14 12588 12588 auth.cpp:152] loaded new key from '/storage/emulated/0/.rclone//.android/adbkey' with fingerprint 41F9734C76F380027163F3BF75E8A7B35CAF40BCA90681B57C364B3DC40EAB60
+adb I 08-19 21:28:14 12588 12588 auth.cpp:392] adb_auth_inotify_init...
+adb I 08-19 21:28:14 12588 12596 transport.cpp:305] emulator-5554: write thread spawning
+adb I 08-19 21:28:14 12588 12595 transport.cpp:333] emulator-5554: read thread spawning
+adb I 08-19 21:28:14 12588 12588 transport.cpp:1596] fetching keys for transport emulator-5554
+adb I 08-19 21:28:14 12588 12588 auth.cpp:469] Calling send_auth_response
+adb I 08-19 21:28:14 12588 12599 transport.cpp:305] localhost:5555: write thread spawning
+adb I 08-19 21:28:14 12588 12598 transport.cpp:333] localhost:5555: read thread spawning
+adb I 08-19 21:28:14 12588 12588 adb.cpp:172] emulator-5554: offline
+adb I 08-19 21:28:14 12588 12588 transport.cpp:1596] fetching keys for transport localhost:5555
+adb I 08-19 21:28:14 12588 12588 auth.cpp:469] Calling send_auth_response
+adb I 08-19 21:28:14 12588 12588 adb.cpp:172] localhost:5555: offline
+adb I 08-19 21:28:15 12588 12598 transport.cpp:337] localhost:5555: read failed: Success
+adb I 08-19 21:28:15 12588 12598 transport.cpp:1198] localhost:5555: connection terminated: read failed
+adb I 08-19 21:28:15 12588 12588 adb.cpp:172] localhost:5555: offline
+adb I 08-19 21:28:15 12588 12588 transport.cpp:911] destroying transport localhost:5555
+adb I 08-19 21:28:15 12588 12588 transport.cpp:405] BlockingConnectionAdapter(localhost:5555): stopping
+adb I 08-19 21:28:15 12588 12595 transport.cpp:337] emulator-5554: read failed: Success
+adb I 08-19 21:28:15 12588 12595 transport.cpp:1198] emulator-5554: connection terminated: read failed
+adb I 08-19 21:28:15 12588 12588 transport.cpp:423] BlockingConnectionAdapter(localhost:5555): stopped
+adb I 08-19 21:28:15 12588 12588 adb.cpp:172] emulator-5554: offline
+adb I 08-19 21:28:15 12588 12588 transport.cpp:911] destroying transport emulator-5554
+adb I 08-19 21:28:15 12588 12588 transport.cpp:405] BlockingConnectionAdapter(emulator-5554): stopping
+adb I 08-19 21:28:15 12588 12588 transport.cpp:423] BlockingConnectionAdapter(emulator-5554): stopped
+adb server killed by remote request
+adb I 08-19 21:28:15 12588 12588 transport.cpp:1107] kicking transport 0xb400007ceba92000 localhost:5555
+adb I 08-19 21:28:15 12588 12588 transport.cpp:398] BlockingConnectionAdapter(localhost:5555): already stopped
+adb I 08-19 21:28:15 12588 12588 transport.cpp:1107] kicking transport 0xb400007c67e01000 emulator-5554
+adb I 08-19 21:28:15 12588 12588 transport.cpp:398] BlockingConnectionAdapter(emulator-5554): already stopped
